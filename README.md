@@ -1,3 +1,4 @@
+
 # Guía de Instalación del Entorno
 
 Este es un breve tutorial para configurar un entorno de desarrollo para una aplicación Node.js con Express, Sequelize, MySQL, y Jest. Sigue los siguientes pasos para configurar tu entorno de desarrollo.
@@ -41,3 +42,4 @@ Edita tu archivo package.json y ajusta los scripts en la sección "scripts" de l
 * dev: Este script iniciará tu aplicación utilizando Nodemon para reiniciar automáticamente el servidor cuando hagas cambios en tu código.
   
 ¡Listo! Tu entorno de desarrollo está configurado y listo para comenzar a construir tu aplicación con Node.js, Express, Sequelize y MySQL. Asegúrate de ajustar la configuración y el código según las necesidades de tu proyecto.
+
